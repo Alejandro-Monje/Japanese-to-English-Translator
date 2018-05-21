@@ -1,0 +1,40 @@
+
+ACTOR: I/me
+DESCRIPTION: rika
+TENSE: IS
+
+ACTOR: I/me
+DESCRIPTION: sensei
+TENSE: IS
+
+ACTOR: rika
+OBJECT: gohan
+ACTION: tabE
+TENSE: VERB
+
+ACTOR: I/me
+OBJECT: tesuto
+TO: seito
+ACTION: agE
+TENSE: VERBPAST
+
+CONNECTOR: However
+ACTOR: seito
+ACTION: yorokobI
+TENSE: VERBPASTNEG
+
+CONNECTOR: Therefore
+ACTOR: I/me
+DESCRIPTION: kanashii
+TENSE: WAS
+
+CONNECTOR: Then
+ACTOR: rika
+TO: toire
+ACTION: ikI
+TENSE: VERBPAST
+
+ACTOR: rika
+ACTION: nakI
+TENSE: VERBPAST
+
